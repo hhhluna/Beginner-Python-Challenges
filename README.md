@@ -28,7 +28,7 @@ This repository contains a collection of beginner-level Python projects. These p
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/beginner-python-projects.git
+   git clone https://github.com/hhhluna/Beginner-Python-Challenges.git
 
 
 
